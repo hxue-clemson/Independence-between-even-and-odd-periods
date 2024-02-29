@@ -1,7 +1,7 @@
 # Independence-between-even-and-odd-periods
 
 
-Let fand g be two (chosen) normalized Hecke eigenforms in S_k.
+Let f and g be two (chosen) normalized Hecke eigenforms in S_k.
 Let a = L(f, ell1),  b = L(g, ell1), c = L(f, ell2), d = L(f, ell2).
 The file fdispo.txt computed |log(a)+log(d) - log(b) - log(c)|.
 
